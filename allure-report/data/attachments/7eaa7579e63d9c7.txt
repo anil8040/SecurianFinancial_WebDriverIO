@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@name='social-security-benefits' and @value='Y']"
+}

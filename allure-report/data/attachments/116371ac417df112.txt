@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@name='marital-status']/../label[text()='Married']"
+}

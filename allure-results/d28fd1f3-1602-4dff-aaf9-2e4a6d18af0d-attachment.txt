@@ -1,0 +1,19 @@
+{
+  "actions": [
+    {
+      "id": "action29",
+      "type": "wheel",
+      "parameters": {},
+      "actions": [
+        {
+          "type": "scroll",
+          "x": 400,
+          "y": 484,
+          "deltaX": -473,
+          "deltaY": 369,
+          "duration": 200
+        }
+      ]
+    }
+  ]
+}
